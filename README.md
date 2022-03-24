@@ -1,2 +1,4 @@
-# s500-firmware
-Firmware for the Cerulean S500 echosounder
+# Cerulean Sonar s500 Echosounder Firmware
+
+[Download the latest release here](https://github.com/CeruleanSonar/s500-firmware/releases/latest).
+
